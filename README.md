@@ -19,4 +19,4 @@ This repository implements **Aspect-Based Sentiment Analysis (ABSA)** using End 
 
 ---
 
-Explore the `absa.ipynb` for implementation details, Gemini prompt engineering insights, and results.
+Explore the `ABSA.ipynb` for implementation details, Gemini prompt engineering insights, and results.
