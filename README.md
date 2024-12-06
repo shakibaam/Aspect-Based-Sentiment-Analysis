@@ -1,4 +1,4 @@
-# Aspect-Based Sentiment Analysis (ABSA)
+# Aspect-Based Sentiment Analysis (ABSA)- CS686 Course Project
 
 This repository implements **Aspect-Based Sentiment Analysis (ABSA)** using End to End approach and also explores **prompt engineering with Gemini** for ABSA-related tasks. The End to end approach combines **BERT** for contextualized embeddings and **CRF** for sequence labeling.
 
