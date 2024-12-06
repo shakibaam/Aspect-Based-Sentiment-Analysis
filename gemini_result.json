@@ -1,0 +1,604 @@
+[
+    {
+    "Sentence": "I liked the aluminum body.",
+    "Aspects":{"aluminum body": "positive"}
+},
+{
+    "Sentence":"Lightweight and the screen is beautiful!",
+    "Aspects":{
+        "weight": "neutral",
+        "screen": "positive"
+      }
+},
+{
+    "Sentence":"Buy it, love it, and I promise you won't regret it.",
+    "Aspects":{
+        "Product": "positive"
+      }
+},
+{
+    "Sentence":"From the build quality to the performance, everything about it has been sub-par from what I would have expected from Apple.",
+    "Aspects":{
+        "build quality": "negative",
+        "performance": "negative"
+      }
+
+},
+{
+    "Sentence":"pretty much everything else about the computer is good it just stops working out of no were.",
+    "Aspects":{
+        "computer": "neutral"
+    }
+},
+{
+    "Sentence":"Originally bought it for my wife.",
+    "Aspects":{}
+},
+{
+    "Sentence":"It was truly a great computer costing less than one thousand bucks before tax.",
+    "Aspects":{
+        "Price": "positive",
+        "Computer": "positive"
+        }
+},
+{
+    "Sentence":"I bought this laptop on Saturday and am completely in love with it!",
+    "Aspects":{
+        "laptop": "positive"
+      }
+},
+{
+    "Sentence":"If you don't like fingerprints, this might not be the laptop for you.",
+    "Aspects":{
+        "fingerprints": "negative"
+      }
+},
+{
+    "Sentence":"Boots up fast and runs great!",
+    "Aspects":{
+        "Boots up": "positive",
+        "runs": "positive"
+      }
+},
+{
+    "Sentence":"Call tech support, standard email the form and fax it back in to us.",
+    "Aspects":{}
+},
+{
+    "Sentence":"I did contact HP and share how unhappy I am.",
+    "Aspects":{
+        "HP": "negative"
+    }
+},
+{
+    "Sentence":"This is my second MacBook.",
+    "Aspects":{}
+},
+{
+    "Sentence":"The service I received from Toshiba went above and beyond the call of duty.",
+    "Aspects":{
+        "service": "positive"
+      }
+},
+{
+    "Sentence":"I would recommend it just because of the internet speed probably because thats the only thing i really care about.",
+    "Aspects":{
+        "internet speed": "positive"
+      }
+}
+,{
+    "Sentence":"This is my 3rd Apple Laptop and first MacBook Pro.",
+    "Aspects":{
+        "Apple Laptop": "neutral",
+        "MacBook Pro": "neutral"
+      }
+},
+{
+    "Sentence":"I have had this laptop for a few months now and i would say im pretty satisfied.",
+    "Aspects":{
+        "laptop": "positive",
+        "months": "neutral",
+        "satisfaction": "positive"
+      }
+},
+{
+    "Sentence":"The love part of my relationship with this laptop doesn't take very long.",
+    "Aspects":{
+        "love": "negative"
+      }
+},
+{
+    "Sentence":"The screen shows great colors.",
+    "Aspects":{
+        "screen": "positive"
+      }
+},
+{
+    "Sentence":"Dells are ok, HPs aren't that good, but Macs or Fantastic.",
+    "Aspects":{
+        "Dells": "neutral",
+        "HPs": "negative",
+        "Macs": "positive"
+      }
+},
+{
+    "Sentence":"The battery life has not decreased since I bought it, so i'm thrilled with that.",
+    "Aspects":{
+        "battery life": "positive"
+      }
+},
+{
+    "Sentence":"The price and features more than met my needs.",
+    "Aspects":{
+        "price": "positive",
+        "features": "positive"
+      }
+},
+{
+    "Sentence":"the mouse buttons are hard to push.",
+    "Aspects":{
+        "mouse buttons": "negative"
+      }
+},
+{
+    "Sentence":"Just don't waste your time and money on this.",
+    "Aspects":{
+        "time": "negative",
+        "money": "negative"
+      }
+},
+{
+    "Sentence":"And I'm still paying the bloody financing, for a product which didn't last me at least three years!",
+    "Aspects":{
+        "product's lifespan": "negative",
+        "financing": "negative"
+    
+    }
+},
+{
+    "Sentence":"Bought it to use mostly for oline classes.",
+    "Aspects":{}
+},
+{
+    "Sentence":"I purchased an HP right after my high school graduation.",
+    "Aspects":{}
+},
+{
+    "Sentence":"Me and my boyfriend bought the Gateway NV78 in nov of 09.",
+    "Aspects":{}
+},
+{
+    "Sentence":"This is the complete opposite to an ergonomic design.",
+    "Aspects":{
+        "ergonomic design": "negative"
+       }
+},
+{
+    "Sentence":"The technical service for dell is so 3rd world it might as well not even bother.",
+    "Aspects":{
+        "technical service": "negative"
+    }
+},
+{
+    "Sentence":"The built in camera is very useful when chatting with other techs in remote buildings on our campus.",
+    "Aspects":{
+        "built in camera": "positive"
+    }
+},
+{
+    "Sentence":"Not super fancy, but not super expensive either.",
+    "Aspects":{
+        "fanciness": "negative",
+        "price": "positive"
+      }
+
+},
+{
+    "Sentence":"Keyboard good sized and wasy to use.",
+    "Aspects":{
+        "Keyboard": "positive"
+      }
+},
+{
+    "Sentence":"Great wifi too.",
+    "Aspects":{
+        "wifi": "positive"
+      }
+},
+{
+    "Sentence":"The Dell mini was the first Dell product that I had ever purchased.",
+    "Aspects":{}
+},
+{
+    "Sentence":"My Mac has gone from being a trusted friend to an adversary.",
+    "Aspects":{
+        "Mac": "negative"
+    }
+},
+{
+    "Sentence":"I have been a mac user since the mid 90s.",
+    "Aspects":{}
+},
+{
+    "Sentence":"My HP is very heavy.",
+    "Aspects":{
+        "weight": "negative"
+      }
+},
+{
+    "Sentence":"big mistake!",
+    "Aspects":{
+        "purchase": "negative"
+      }
+},
+{
+    "Sentence":"Best Buy was great as always and accepted the return and gave me another model 1764.",
+    "Aspects":{
+        "Best Buy": "positive",
+        "service": "positive"
+      }
+},
+{
+    "Sentence":"I would buy this lap top over and over again!",
+    "Aspects":{
+        "laptop": "positive"
+    }
+},
+{
+    "Sentence":"Games being the main issue.",
+    "Aspects":{
+        "Games": "negative"
+      }
+},
+{
+    "Sentence":"My previous purchases were with Dell and HP.",
+    "Aspects":{}
+},
+{
+    "Sentence":"The price is another driving influence that made me purchase this laptop.",
+    "Aspects":{
+        "price": "positive"
+      }
+},
+{
+    "Sentence":"But see the macbook pro is different because it may have a huge price tag but it comes with the full software that you would actually need and most of it has free future updates.",
+    "Aspects":{
+        "price tag": "negative",
+        "full software": "positive",
+        "free future updates": "positive"
+      }
+},
+{
+    "Sentence":"It's a great product for a great price!",
+    "Aspects":{
+        "price": "positive",
+        "product": "positive"
+      }
+},
+{
+    "Sentence":"Excellent speed for processing data.",
+    "Aspects":{
+        "speed": "positive"
+    }
+},
+{
+    "Sentence":"All in all, I'm incredibly dissatisfied with this laptop, and with HP as a whole.",
+    "Aspects":{
+        "laptop": "negative",
+        "HP": "negative"
+    }
+},
+{
+    "Sentence":"In my opinion it was not as user friendly as I expected either.",
+    "Aspects":{
+        "user friendliness": "negative"
+        }
+},
+{
+    "Sentence":"The Macbook arrived in a nice twin packing and sealed in the box, all the functions works great.",
+    "Aspects":{
+        "packing": "positive",
+        "functions": "positive"
+      }
+},
+{
+    "Sentence":"The switchable graphic card is pretty sweet when you want gaming on the laptop.",
+    "Aspects":{
+        "switchable graphic card": "positive"
+    }
+},
+{
+    "Sentence":"I would like at least a 4 hr. battery life.",
+    "Aspects":{
+        "battery life": "positive"
+      }
+},
+{
+    "Sentence":"Looking online, many people are having the same problem.",
+    "Aspects":{}
+},
+{
+    "Sentence":"It has good speed and plenty of hard drive space.",
+    "Aspects":{
+        "speed": "positive",
+        "hard drive space": "positive"
+      }
+},
+{
+    "Sentence":"The driver updates don't fix the issue, very frustrating.",
+    "Aspects":{
+        "driver updates": "negative"
+      }
+},
+{
+    "Sentence":"Dell wanted to charge us for everything everytime I called them with a problem.",
+    "Aspects":{
+        "Dell's customer service": "negative"
+      }
+},
+{
+    "Sentence":"THIS HAS BEEN NOTHING BUT A HEADACHE SINCE WE PURCHASED IT.",
+    "Aspects":{
+        "THIS": "negative"
+      }
+},
+{
+    "Sentence":"Im glad that it has such great features in it.",
+    "Aspects":{
+        "features": "positive"
+      }
+},
+{
+    "Sentence":"it's just a great toy to have around.",
+    "Aspects":{
+        "toy": "positive"
+        }
+},
+{
+    "Sentence":"When this happened I would have to completely power off my computer and restart it.",
+    "Aspects":{}
+},
+{
+    "Sentence":"I always have used a tower home PC and jumped to the laptop and have been very satisfied with its performance.",
+    "Aspects":{
+        "performance": "positive"
+    }
+},
+{
+    "Sentence":"I asked how they would determine that since there are no scratches, dents or other signs of damage and was told that was the only way this type of damage could happen.",
+    "Aspects":{}
+
+},
+{
+    "Sentence":"I had finally reached my limit and broke down.",
+    "Aspects":{}
+},
+{
+    "Sentence":"and dell and best buy both refused to take it back after i only had it for 1 hour....",
+    "Aspects":{
+        "dell": "negative",
+        "best buy": "negative"
+    }
+},
+{
+    "Sentence":"I burned my leg, after lifting it from my desk, and for less than 5 second putting it on my lap to clean my coffee table, so I can place it there.",
+    "Aspects":{}
+},
+{
+    "Sentence":"and its really cheap and you wont regret buying it.",
+    "Aspects":{
+        "price": "positive"
+      }
+},
+{
+    "Sentence":"It was over rated!",
+    "Aspects":{
+        "product": "negative"
+    }
+},
+{
+    "Sentence":"I dont understand how anyone can think this is a great product worth purchasing.",
+    "Aspects":{}
+},
+{
+    "Sentence":"My sister has the same Mac as me and she is in a band and uses GarageBand to record and edit.",
+    "Aspects":{}
+},
+{
+    "Sentence":"and looks very sexyy:D really the mac book pro is the best laptop specially for students in college if you are not caring about price.",
+    "Aspects":{
+        "looks": "positive",
+        "price": "negative"
+      }
+},
+{
+    "Sentence":"They definitely have a superior product!",
+    "Aspects":{
+        "product": "positive"
+    }
+},
+{
+    "Sentence":"This is a great laptop and I would recommend it to anyone.",
+    "Aspects":{
+        "laptop": "positive"
+      }
+},
+{
+    "Sentence":"It is very user friendly and not hard to figure out at all.",
+    "Aspects":{
+        "user friendly": "positive",
+        "hard to figure out": "negative"
+      }
+},
+{
+    "Sentence":"They are wonderful, but very dangerous when it comes to emitting heat.",
+    "Aspects":{
+        "wonderfulness": "positive",
+        "dangerousness": "negative"
+      }
+},
+{
+    "Sentence":"Came fully loaded -good.",
+    "Aspects":{
+        "availability": "positive"
+    }
+},
+{
+    "Sentence":"It super shiny, so you can see the fingerprints easily.",
+    "Aspects":{
+        "shininess": "positive"
+    }
+},
+{
+    "Sentence":"It's a great prodcut to handle basic computing needs.",
+    "Aspects":{
+        "basic computing needs": "positive"
+      }
+},
+{
+    "Sentence":"the laptop was really good and it goes really fast just the way i thought it would of run.",
+    "Aspects":{
+        "laptop": "positive",
+        "speed": "positive"
+      }
+},
+{
+    "Sentence":"It doesnt work worth a damn.",
+    "Aspects":{
+        "overall_product": "negative"
+      }
+},
+{
+    "Sentence":"It was definelty a smart move.",
+    "Aspects":{
+        "Smart move": "positive"
+      }
+},
+{
+    "Sentence":"Overall though, for the money spent it's a great deal.",
+    "Aspects":{
+        "value for money": "positive"
+      }
+},
+{
+    "Sentence":"A little pricey but it is well, well worth it.",
+    "Aspects":{
+        "price": "negative",
+        "worth": "positive"
+      }
+},
+{
+    "Sentence":"It is meant to be PORTABLE.",
+    "Aspects":{
+        "PORTABLE": "positive"
+      }
+},
+{
+    "Sentence":"I am totally satisfied with my little toshie!",
+    "Aspects":{
+        "toshie": "positive"
+      }
+},
+{
+    "Sentence":"Also, the extended warranty was a problem.",
+    "Aspects":{
+        "extended warranty": "negative"
+    }
+},
+{
+    "Sentence":"My opinion of Sony has been dropping as fast as the stock market, given their horrible support, but this machine just caused another plunge.",
+    "Aspects":{
+        "support": "negative"
+        }
+},
+{
+    "Sentence":"I waited and waited and no laptop.",
+    "Aspects":{}
+},
+{
+    "Sentence":"Everything is falling apart internally and externally.",
+    "Aspects":{
+        "Internal": "negative",
+        "External": "negative"
+      }
+},
+{
+    "Sentence":"I also liked the glass screen.",
+    "Aspects":{
+        "glass screen" : "positive"
+    }
+},
+{
+    "Sentence":"When I called Toshiba, they would not do anything and even tried to charge me $35 for the phone call, even though they didn't offer any technical support.",
+    "Aspects":{
+        "phone call": "negative",
+        "technical support": "negative"
+    }
+},
+{
+    "Sentence":"I can actually get work done with this MAC, and not fight with it like my tired old PC laptop.",
+    "Aspects":{
+        "MAC": "positive",
+        "PC laptop": "negative"
+        }
+},
+{
+    "Sentence":"If you're not wanting to be mobile, this is a good laptop to sit on a desk.",
+    "Aspects":{
+        "mobility": "negative",
+        "desk usage": "positive"
+      }
+},
+{
+    "Sentence":"I also travel with it and it never gives me any problems.",
+    "Aspects":{
+        "portability": "positive"
+      }
+},
+{
+    "Sentence":"(Beware, their staff could send you back making you feel that only they know what a computer is.",
+    "Aspects":{
+        "staff": "negative"
+      }
+},
+{
+    "Sentence":"Other Thoughts: Do not purchase this product.",
+    "Aspects":{
+        "product": "negative"
+      }
+},
+{
+
+    "Sentence":"The computer was delivered as promised.",
+    "Aspects":{
+        "delivery": "positive"
+      }
+},
+{
+    "Sentence":"The only thing that I don't like about my mac is that sometimes there are programs that I want to be able to run and I am not able to.",
+    "Aspects":{
+        "programs": "negative",
+        "running programs": "negative"
+    }
+},
+{
+    "Sentence":"Wireless has not been a issue for me, like some others have meantioned.",
+    "Aspects":{
+        "Wireless": "positive"
+      }
+},
+{
+    "Sentence":"MacBook Notebooks quickly die out because of their short battery life, as well as the many background programs that run without the user's knowlede.",
+    "Aspects":{
+        "battery life": "negative",
+        "background programs": "negative"
+      }
+},
+{
+    "Sentence":"All for such a great price.",
+    "Aspects":{
+        "price": "positive"
+    }
+}
+    
+]
